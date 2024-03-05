@@ -1,0 +1,1 @@
+web: gunicorn Malaria-Commodities-Demand-Prediction-Model:Malaria-Commodities-Demand-Prediction-Model
